@@ -18,7 +18,7 @@ https://gist.github.com/ankitwww/38bb53aa960d0de47e808851000fc0d7
 
 #### There are three files in the project:
 
-  1. **queueServer.js**: Starts the que server.
+  1. **queueServer.js**: Starts the queue server.
   2. **producer.js**: Add tasks to the queue. Takes arguments as tasks.  
   3. **consumer.js**: Consumes the task.
 
