@@ -5,11 +5,11 @@ Problem Statement:
 https://gist.github.com/ankitwww/38bb53aa960d0de47e808851000fc0d7
 
 
-##installation:
+## installation:
 
-Install Node.js
+0. Install Node.js
 
-run `npm install`
+1. run `npm install`
 
 
 
@@ -18,9 +18,9 @@ run `npm install`
 
 #### There are three files in the project:
 
-  1. queueServer.js: Starts the que server.
-  2. producer.js: Add tasks to the queue. Takes arguments as tasks.  
-  3. consumer.js: Consumes tasks
+  1. **queueServer.js**: Starts the que server.
+  2. **producer.js**: Add tasks to the queue. Takes arguments as tasks.  
+  3. **consumer.js**: Consumes the task.
 
 #### Examples:
 
