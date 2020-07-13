@@ -22,11 +22,11 @@ run `npm install`
   2. producer.js: Add tasks to the queue. Takes arguments as tasks.  
   3. consumer.js: Consumes tasks
 
-## Examples:
+#### Examples:
 
 CD to the project directory
 
-run `node queueserver.js` to start the queue server, defaut port is 8080. leave the terminal running to see the corresponding responses of producer and consumer here.
+run `node queueServer.js` to start the queue server, defaut port is 8080. leave the terminal running to see the corresponding responses of producer and consumer here.
 
 In another terminal(in project directory) 
 
