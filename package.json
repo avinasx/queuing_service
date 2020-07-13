@@ -1,0 +1,14 @@
+{
+  "name": "queue_service",
+  "version": "1.0.0",
+  "description": "Queueing service implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "avinash.kumar@iic.ac.in",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
