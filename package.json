@@ -1,13 +1,21 @@
 {
-  "name": "queue_service",
+  "name": "queuing_service",
   "version": "1.0.0",
-  "description": "Queueing service implementation",
-  "main": "index.js",
+  "description": "Implemets simplest queueing service",
+  "main": "consumer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeChari/queuing_service.git"
+  },
   "author": "avinash.kumar@iic.ac.in",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeChari/queuing_service/issues"
+  },
+  "homepage": "https://github.com/CodeChari/queuing_service#readme",
   "dependencies": {
     "axios": "^0.19.2"
   }
